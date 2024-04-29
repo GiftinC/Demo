@@ -1,0 +1,18 @@
+﻿1           
+* Web Pages Load Much Faster and Efficiently
+* They are More Relaiable
+
+
+2 
+*  Objects in JavaScript is it’s most important data-type and forms the building blocks for modern JavaScript
+* ex:Syntax:Objectname.Propertyname
+
+
+3
+
+
+4
+* Ip Address : An IP address is a unique numerical label assigned to each device connected to a computer network, such as the internet. It acts as a virtual address that allows devices to communicate and identify each other on the network.
+* Port : A port is a virtual communication channel associated with an IP address. It allows different applications or services running on the same device to receive and send data independently
+* HTTP methods : They are specific commands sent within an HTTP request to instruct the server on how to handle the request.
+* MAC Address : A MAC address (Media Access Control address) is a unique hardware identifier assigned to each network interface card (NIC) in a device.
